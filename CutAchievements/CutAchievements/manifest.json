@@ -1,0 +1,9 @@
+﻿{
+  "filename": "CutAchievements.dll",
+  "author": "_nebula",
+  "name": "Cut Achievements",
+  "uniqueName": "_nebula.CutAchievements",
+  "version": "1.0.0",
+  "owmlVersion": "2.5.2",
+  "dependencies": [ "xen.AchievementTracker" ]
+}
