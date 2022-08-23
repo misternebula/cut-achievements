@@ -4,6 +4,6 @@
   "name": "Cut Achievements",
   "uniqueName": "_nebula.CutAchievements",
   "version": "1.0.0",
-  "owmlVersion": "2.5.2",
+  "owmlVersion": "2.6.0",
   "dependencies": [ "xen.AchievementTracker" ]
 }
