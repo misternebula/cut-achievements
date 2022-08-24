@@ -47,7 +47,7 @@ namespace CutAchievements
 			API.RegisterAchievement(PlanetExplorer, false, this);
 			API.RegisterTranslation(PlanetExplorer, TextTranslation.Language.ENGLISH, "Space Exploredinaire", "Land on every planet and moon in one time loop.");
 			API.RegisterAchievement(Performance, false, this);
-			API.RegisterTranslation(Performance, TextTranslation.Language.ENGLISH, "Critical Performance Hit", "Have you, your ship, and the Little Scout all on seperate planets.");
+			API.RegisterTranslation(Performance, TextTranslation.Language.ENGLISH, "Critical Performance Hit", "Have you, your ship, and the Little Scout all on separate planets.");
 
 			_knockedOverCairns = Helper.Storage.Load<List<int>>("cairns.json");
 
